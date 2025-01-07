@@ -14,7 +14,7 @@ placeholder="100.000" min="10" required autofocus>
 <input type="number" id="number" class="form-control" name="taxa"
 placeholder="10" min="1" required>
 <label for="período" class="sr-only">período de tempo: (meses)</label>
-<input type="number" id="number" class="form-control" name="período"
+<input type="number" id="number" class="form-control" name="periodo"
 placeholder="3" min="1" required>
 <button class="btn btn-lg btn-primary btn-block" type="submit">calcular</button>
 <p class="mt-5 mb-3 text-muted">&copy; 2025</p>
